@@ -2,6 +2,8 @@
 
 Link del repositorio: https://github.com/PaxuitoGIT/Simulacro2
 
+Link de Github Pages: https://paxuitogit.github.io/Simulacro2/
+
 ---
 
 ## **Parte I: Capa de Red**
